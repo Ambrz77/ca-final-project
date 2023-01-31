@@ -1,0 +1,55 @@
+***CACHE 32K***
+
+#  trace reset ...
+#  trace statistics ...
+#  number of memory accesses                  1000001
+#  number of data reads                        159631
+#  number of data writes                        83030
+#  number of instruction fetches               757340
+#  minimum instruction address                4194784
+#  maximum instruction address                4765328
+#  
+#  run trace (    1000001 accesses) ...
+#  
+#  trace file                long_cc.trc
+#  
+#  read wait cycles                    10
+#  write wait cycles                   10
+#  
+#  cache read hits                 866584
+#  cache read misses                50387
+#  cache write hits                 70381
+#  cache write misses               12649
+#  cache write-backs                 1688
+#  
+#  memory read time              86863400
+#  memory write time             11085780
+#  Read signature              3153860868
+#  Write Signature             3105513099
+
+#  trace reset ...
+#  trace statistics ...
+#  number of memory accesses                  1000001
+#  number of data reads                        150699
+#  number of data writes                        66538
+#  number of instruction fetches               782764
+#  minimum instruction address                4195404
+#  maximum instruction address                4622244
+#  
+#  run trace (    1000001 accesses) ...
+#  
+#  trace file                long_spice.trc
+#  
+#  read wait cycles                    10
+#  write wait cycles                   10
+#  
+#  cache read hits                 918538
+#  cache read misses                14925
+#  cache write hits                 60006
+#  cache write misses                6532
+#  cache write-backs                  368
+#  
+#  memory read time              78645840
+#  memory write time              8090840
+#  Read signature               689558896
+#  Write Signature              699244275
